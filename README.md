@@ -31,4 +31,5 @@ recorder.csv("airy", { "t", "x0", "x1" }); // generate a file of comma separated
 ```
 
 drawing `airy.csv`:
+
 ![Image](https://github.com/user-attachments/assets/04a86f64-6d3f-4074-88ae-621c2a4e99ee)
